@@ -239,7 +239,7 @@ PluginEntryPoint.Invoke<Input, Output>(input =>
 ## Building from Source
 
 ```bash
-git clone https://github.com/Biztactix-Ryan/zeroclaw-dotnetsdk.git
+git clone https://github.com/CovertStrike/ZeroClaw-Plugins-DotNetSDK.git
 cd zeroclaw-dotnetsdk
 
 dotnet build

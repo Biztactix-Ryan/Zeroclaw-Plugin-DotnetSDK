@@ -17,8 +17,8 @@
     <Description>SDK for building ZeroClaw WASM plugins in C#. Provides easy access to ZeroClaw's memory, messaging, and tool APIs with full JSON serialization support. Auto-generates plugin.toml from attributes.</Description>
     <PackageTags>zeroclaw;wasm;plugin;extism;ai;agent</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageProjectUrl>https://github.com/Biztactix-Ryan/zeroclaw</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Biztactix-Ryan/zeroclaw-dotnetsdk</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/CovertStrike/ZeroClaw-Plugins-DotNetSDK</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CovertStrike/ZeroClaw-Plugins-DotNetSDK</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReadmeFile>README.md</PackageReadmeFile>
 
